@@ -82,11 +82,10 @@ class FlutterIconField extends StatelessWidget {
     switch (size) {
       case FlutterIconFieldSize.small:
         return 12.0;
+      case FlutterIconFieldSize.normal:
+        return 16.0;
       case FlutterIconFieldSize.large:
         return 20.0;
-      case FlutterIconFieldSize.normal:
-      default:
-        return 16.0;
     }
   }
 

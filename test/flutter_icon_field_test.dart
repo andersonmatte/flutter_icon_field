@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter_icon_field/flutter_icon_field.dart';
+import 'package:flutter_test/flutter_test.dart';
 
 void main() {
   testWidgets('IconField renders with icon and placeholder text',
       (WidgetTester tester) async {
     // Build widget
     await tester.pumpWidget(
-      MaterialApp(
+      const MaterialApp(
         home: Scaffold(
           body: FlutterIconField(
             icon: Icon(Icons.search),
