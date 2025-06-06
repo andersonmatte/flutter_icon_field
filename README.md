@@ -28,11 +28,11 @@ import 'package:flutter_icon_field/flutter_icon_field.dart';
 
 ## 💡 Features
 
-✅ Single icon (left or right) – with Icon or SvgPicture.
-✅ FloatLabel support (floating label).
-✅ IftaLabel support (fixed label over the field).
-✅ Enum IconFieldSize: small, normal, large.
-✅ Customizable border, padding, style, etc.
+- ✅ - Single icon (left or right) – with Icon or SvgPicture.
+- ✅ - FloatLabel support (floating label).
+- ✅ - IftaLabel support (fixed label over the field).
+- ✅ - Enum IconFieldSize: small, normal, large.
+- ✅ - Customizable border, padding, style, etc.
 
 ## ✨Demos
 
