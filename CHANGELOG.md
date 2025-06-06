@@ -16,3 +16,9 @@
 ### 🚀 Documentation Adjustment
 
 - ✅ - Correction in Readme.
+
+## [1.0.2] - 2025-06-06
+
+### 🚀 Documentation Adjustment
+
+- ✅ - Correction in Readme.

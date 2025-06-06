@@ -1,6 +1,6 @@
 name: flutter_icon_field
-description: Componente Flutter inspirado no IconField do PrimeNG.
-version: 1.0.1
+description: Flutter component inspired by PrimeNG's IconField.
+version: 1.0.2
 homepage: https://github.com/andersonmatte/flutter_icon_field
 repository: https://github.com/andersonmatte/flutter_icon_field
 issue_tracker: https://github.com/andersonmatte/flutter_icon_field/issues
