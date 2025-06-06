@@ -10,3 +10,9 @@
 - ✅ - IftaLabel support (fixed label over the field).
 - ✅ - Enum IconFieldSize: small, normal, large.
 - ✅ - Customizable border, padding, style, etc.
+
+## [1.0.1] - 2025-06-06
+
+### 🚀 Documentation Adjustment
+
+- ✅ - Correction in Readme.
