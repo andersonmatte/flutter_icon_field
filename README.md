@@ -41,7 +41,7 @@ import 'package:flutter_icon_field/flutter_icon_field.dart';
 ✅ Example
 
 ```dart
-  @override
+@override
 Widget build(BuildContext context) {
   return Scaffold(
     appBar: AppBar(title: const Text('Flutter Icon Field')),
